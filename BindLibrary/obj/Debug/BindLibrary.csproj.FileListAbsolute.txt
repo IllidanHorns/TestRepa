@@ -1,0 +1,12 @@
+D:\Users\illid\source\Pract10WPF\BindLibrary\bin\Debug\BindLibrary.dll
+D:\Users\illid\source\Pract10WPF\BindLibrary\bin\Debug\BindLibrary.pdb
+D:\Users\illid\source\Pract10WPF\BindLibrary\obj\Debug\BindLibrary.csproj.AssemblyReference.cache
+D:\Users\illid\source\Pract10WPF\BindLibrary\obj\Debug\BindLibrary.csproj.CoreCompileInputs.cache
+D:\Users\illid\source\Pract10WPF\BindLibrary\obj\Debug\BindLibrary.dll
+D:\Users\illid\source\Pract10WPF\BindLibrary\obj\Debug\BindLibrary.pdb
+D:\Users\illid\Pract10WPF\BindLibrary\bin\Debug\BindLibrary.dll
+D:\Users\illid\Pract10WPF\BindLibrary\bin\Debug\BindLibrary.pdb
+D:\Users\illid\Pract10WPF\BindLibrary\obj\Debug\BindLibrary.csproj.AssemblyReference.cache
+D:\Users\illid\Pract10WPF\BindLibrary\obj\Debug\BindLibrary.csproj.CoreCompileInputs.cache
+D:\Users\illid\Pract10WPF\BindLibrary\obj\Debug\BindLibrary.dll
+D:\Users\illid\Pract10WPF\BindLibrary\obj\Debug\BindLibrary.pdb

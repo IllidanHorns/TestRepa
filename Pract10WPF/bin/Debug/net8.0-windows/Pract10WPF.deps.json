@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pract10WPF/1.0.0": {
+        "dependencies": {
+          "BindLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Pract10WPF.dll": {}
+        }
+      },
+      "BindLibrary/1.0.0": {
+        "runtime": {
+          "BindLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pract10WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BindLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
